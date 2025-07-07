@@ -60,6 +60,8 @@ npm run dev
 
 Open `http://localhost:5173` to view it in your browser.
 
+Open Live `https://nandighoshbus.netlify.app/` to view live.
+
 ---
 
 ## 📦 Built With
