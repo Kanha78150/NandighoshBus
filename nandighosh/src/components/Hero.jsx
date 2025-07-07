@@ -56,7 +56,7 @@ export default function Hero() {
             type="submit"
             className="w-full bg-blue-600 text-white py-3 rounded-md hover:bg-blue-700 transition-all cursor-pointer"
           >
-            Submit
+            Book Your Seat
           </button>
         </form>
       </div>
