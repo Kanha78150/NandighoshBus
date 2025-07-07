@@ -29,10 +29,10 @@ export default function Hero() {
     <section className="bg-gradient-to-r from-blue-500 to-indigo-600 text-white py-20 px-6 md:flex md:items-center md:justify-between">
  
       <div className="w-full md:w-1/2 mb-10 md:mb-0">
-        <h1 className="text-6xl text-center md:text-5xl font-bold leading-tight">
+        <h1 className="text-6xl md:text-5xl font-bold leading-tight">
           Connecting Odisha, Comfortably
         </h1>
-        <p className="mt-4 text-center text-lg leading-relaxed max-w-xl">
+        <p className="mt-4 text-lg leading-relaxed max-w-xl">
           Travel across Odisha with comfort and reliability. Nandighosh Bus brings you
           modern coaches, timely departures, and hassle-free booking — your journey made easy.
         </p>
