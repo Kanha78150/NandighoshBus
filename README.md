@@ -44,7 +44,7 @@ nandighosh-bus/
 
 ### 1. Clone the repository
 ```bash
-git clone 
+git clone https://github.com/Kanha78150/NandighoshBus.git
 cd nandighosh-bus
 ```
 
@@ -82,7 +82,7 @@ Open `http://localhost:5173` to view it in your browser.
 
 ## 📧 Contact
 
-> Built by Bholasankar Nanda(https://github.com/your-username)  
+> Built by Bholasankar Nanda(https://github.com/Kanha78150/NandighoshBus.git)  
 
 
 ---
