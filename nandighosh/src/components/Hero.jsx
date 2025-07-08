@@ -47,7 +47,18 @@ export default function Hero() {
         >
           <input name="from" type="text" placeholder="From" className={inputClass} required />
           <input name="to" type="text" placeholder="To" className={inputClass} required />
-          <input name="date" type="date" className={inputClass} required />
+          <div className="mb-4">
+  <label htmlFor="date" className="block text-sm font-medium text-gray-700 mb-1">
+    Journey Date
+  </label>
+  <input
+    id="date"
+    name="date"
+    type="date"
+    className="w-full p-3 rounded-md border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
+    required
+  />
+</div>
           <select name="type" className={inputClass} defaultValue="Sleeper" required>
             <option value="Sleeper">Sleeper</option>
             <option value="Seater">Seater</option>
